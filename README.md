@@ -1,4 +1,4 @@
 # hello-world
 Hi Githubers,
-My name is baiby and i'm new at github,
-and i'm passionate and ready to Go !
+My name is baiby, i'm new at github,
+I'm passionate and ready to Go !
